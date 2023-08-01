@@ -1,0 +1,20 @@
+{
+  "name": "Asynchronous File Handling",
+  "version": "1.0.0",
+  "description": "Create a Node.js script that reads a text file named data.txt and counts the number of words in it.The script should print the total word count to the console.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kazi tanvir azad",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kazitanvirazad/onepoket-task.git"
+  },
+  "engines": {
+    "node": "v18.16.0"
+  }
+}

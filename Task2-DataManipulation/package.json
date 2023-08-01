@@ -1,0 +1,20 @@
+{
+  "name": "Sum of array elements",
+  "version": "1.0.0",
+  "description": "Function to add all the number elements of the given array",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kazi tanvir azad",
+  "license": "ISC",
+  "repository": {
+	"type": "git",
+    "url": "https://github.com/Kazitanvirazad/onepoket-task.git"
+  },
+  "engines": {
+    "node": "v18.16.0"
+  }
+}
